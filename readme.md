@@ -4,7 +4,7 @@ The goal of the project is to create a keyboard layout with the same keys and fu
 
 Please note that this is a work in progress, is being developed on, and has only been tested on a built-in MacBook Pro 2013 keyboard. This layout might change in the future and if you have any requests or comments, please drop the author a line or file a ticket for the Github repository at https://github.com/stefanvignir/dvorak-is-mac.
 
-![Overview of the keyboard in neutral state](https://raw.github.com/stefanvignir/dvorak-is-mac/master/dvorak-is.png)
+![Overview of the keyboard in neutral state](https://raw.github.com/gunnarjv/dvorak-is-mac/master/dvorak-is.png)
 
 # Installation
 1. Copy the .icns and .keylayout files to "/Library/Keyboard Layouts" to install the keyboard layout for all users.
